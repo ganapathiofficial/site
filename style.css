@@ -76,7 +76,12 @@ a:visited {
 a:hover, a:active {
     color: red;
 }
-
+  
+b.highlight {
+    background-color: rgb(66, 64, 64);
+    padding: 10px;
+  }
+  
 @media(max-width:995px){
     nav{
         position: absolute;
