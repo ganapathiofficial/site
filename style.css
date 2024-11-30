@@ -67,6 +67,7 @@ nav a.active{
 p{
     font-weight: bold;
     font-family: "Arial", sans-serif;
+    
 }
 
 p a:link,
@@ -80,7 +81,9 @@ a:hover, a:active {
   
 b.highlight {
     background-color: rgb(66, 64, 64);
-    padding: 10px;
+    padding: 1rem 2.8rem;
+    border-radius: 4rem;
+    letter-spacing: 0.3rem;
   }
   
 @media(max-width:995px){
