@@ -83,7 +83,6 @@ b.highlight {
     background-color: rgb(66, 64, 64);
     padding: 1rem 2.8rem;
     border-radius: 4rem;
-    letter-spacing: 0.3rem;
   }
   
 @media(max-width:995px){
